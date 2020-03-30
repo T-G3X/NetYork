@@ -1,0 +1,26 @@
+@font-face{
+	font-family: "SF-Pro";
+	src: url("../fonts/SF-Pro-Display-Thin.otf");
+}
+body{
+    font-family: "SF-Pro";
+    font-weight: normal;
+	font-size: 20px;
+    text-align: justify;
+    margin-left: 130px;
+    width: 1100px;
+    border: 0px solid blue;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    min-height: 120px;
+
+}
+li{
+    
+}
+ul{
+    list-style-type: disc;
+}
